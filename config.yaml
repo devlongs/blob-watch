@@ -1,0 +1,7 @@
+ethereum:
+  url: "wss://eth-sepolia.g.alchemy.com/v2/sUzWUlDLtJ1LnQCajoi2E8932RwNFuaY"
+
+database:
+  url: "host=localhost user=blobwatcher password=blobwatch dbname=blobwatch port=5432 sslmode=disable TimeZone=UTC"
+server:
+  port: "8080"
